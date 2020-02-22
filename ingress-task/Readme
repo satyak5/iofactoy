@@ -1,0 +1,5 @@
+kubectl apply -f deployment1-svc.yml
+kubectl apply -f deployment1.yml
+kubectl apply -f deployment2-svc.yml
+kubectl apply -f deployment2.yml
+kubectl apply -f ingress.yml
